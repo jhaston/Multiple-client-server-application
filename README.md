@@ -67,4 +67,4 @@ The client and server communicate by using a protocol of sending message strings
 
 The BufferedReader and PrintWriter classes are used for communication between the client and the server. These classes use character data and can be connected to the streams associated with the client and the server.
 
-
+# Please see the file named installation_notes.pdf
