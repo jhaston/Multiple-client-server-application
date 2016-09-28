@@ -8,9 +8,7 @@ The project was part of a university assignment to build an online video hire ap
 
 Although video hire businesses are now almost obsolete the prototype applications presented here are valid, and could be used for many other client-server applications.
 
-The original non-packaged classes are presented first and will soon be branched to provide a packaged version.
-
-Limited information is currently provided. More detailed information and usage instructions coming soon. So please come back and check out any new uploads.
+The original non-packaged classes are presented first and will soon be branched to provide a packaged version. So please come back and check out any new uploads.
 
 # Background
 
