@@ -61,4 +61,10 @@ The solution presented is a threaded server that can handle several clients simu
 
 There is no GUI associated with the server application. It is started straight from the command line and there is no means of terminating the server other than pressing CTRL-C when its DOS window has the keyboard focus (or CTRL-Z when in a linux terminal window). Otherwise the server should just endlessly loop processing client requests.
 
+# The TCP/IP message protocol
+
+The client and server communicate by using a protocol of sending message strings to one another. A very simple protocol is implemented, to allow the client and server to communicate and interpret message strings so that the appropriate actions can take place.
+
+The BufferedReader and PrintWriter classes are used for communication between the client and the server. These classes use character data and can be connected to the streams associated with the client and the server.
+
 
