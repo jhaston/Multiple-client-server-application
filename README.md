@@ -2,7 +2,7 @@
 A collection of classes that define a server and a client application.
 
 # Introduction
-The project may be used for education, or further developed for commercial use. The implementation includes essential java classes and methods, inheritance, interfaces, sockets, collections, serialization, exception handling, threading and more!
+The project may be used for education, or further developed for commercial use. The implementation includes essential java classes and methods, inheritance, an interface, sockets, collections, serialization, exception handling, threading and more!
 
 The project was part of a university assignment to build an online video hire application.
 
