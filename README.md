@@ -6,7 +6,7 @@ The project may be used for education, or further developed for commercial use. 
 
 The project was part of a university assignment to build an online video hire application.
 
-Although video hire businesses are now almost obsolete the prototype applications presented are still valid, and may be used for many other client-server applications.
+Although video hire businesses are now almost obsolete the prototype applications presented here are valid, and could be used for many other client-server applications.
 
 The original non-packaged classes are presented first and will soon be branched to provide a packaged version.
 
