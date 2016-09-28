@@ -1,4 +1,4 @@
-# Multiple-client-server-application
+# Java multiple-client-server application
 A collection of classes that define a server and a client application.
 
 # Introduction
